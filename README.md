@@ -1,11 +1,11 @@
-![MasterHead](<https://github.com/Th1l1na/Th1l1na/blob/main/github-header-image%20(1).png>)
+
 
 <h1 align="center">Hi 👋, I'm Pedro Moreno</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=th1l1na&label=Profile%20views&color=0e75b6&style=flat" alt="th1l1na" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrolouis&label=Profile%20views&color=0e75b6&style=flat" alt="pedrolouis" /> </p>
 
-<p align="left"> <a href="https://twitter.com/thilina13576639" target="blank"><img src="https://img.shields.io/twitter/follow/thilina13576639?logo=twitter&style=for-the-badge" alt="thilina13576639" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bypedrolouis" target="blank"><img src="https://img.shields.io/twitter/follow/bypedrolouis?logo=twitter&style=for-the-badge" alt="bypedrolouis" /></a> </p>
 
 - 🔭 I’m currently working on NeusRecords
 
@@ -44,7 +44,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1l1na&layout=compact&theme=github_dark&show_icons=true" alt="th1l1na" />
 </div>
 
----
-
-Credit: [Th1l1na](https://github.com/Th1l1na)
-Last Edited on: 14/11/2024
