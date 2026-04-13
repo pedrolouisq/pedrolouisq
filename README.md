@@ -23,7 +23,7 @@ Actualmente me encuentro en la recta final de mi formación técnica, enfocado e
 - **Logro clave:** Implementación de lógica de persistencia y manejo de interfaces.
 
 #### [Wallpaperhub](https://github.com/pedrolouisq/wallpaperhub)
-> *Descripción breve: Aplicación para la gestión y visualización de fondos de pantalla de alta resolución.*
+> *WallpaperHub es una aplicación moderna y elegante desarrollada en Flutter que permite a los usuarios explorar, descargar y configurar fondos de pantalla de alta resolución de forma sencilla y rápida.*
 - **Tecnologías:** JavaScript / CSS / API REST
 - **Logro clave:** Consumo de APIs externas y diseño de interfaz de usuario moderna. *(Nota: Te recomiendo mover este repo a este perfil personal).*
 
