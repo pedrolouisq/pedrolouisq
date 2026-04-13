@@ -1,27 +1,43 @@
+# ¡Hola! Soy Pedro Louis Q 👋
 
+### 🚀 Estudiante de 5to Semestre de Tecnología en Sistemas
+Actualmente me encuentro en la recta final de mi formación técnica, enfocado en el desarrollo de soluciones de software eficientes y escalables. Estoy buscando mi primera oportunidad de **prácticas profesionales** para aplicar mis conocimientos en entornos reales y seguir creciendo como desarrollador.
 
-<h1 align="center">Hi 👋, I'm Pedro Moreno</h1>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrolouis&label=Profile%20views&color=0e75b6&style=flat" alt="pedrolouis" /> </p>
+### 🛠️ Mi Stack Tecnológico
 
-<p align="left"> <a href="https://twitter.com/bypedrolouis" target="blank"><img src="https://img.shields.io/twitter/follow/bypedrolouis?logo=twitter&style=for-the-badge" alt="bypedrolouis" /></a> </p>
+**Lenguajes y Tecnologías:**
+- ☕ **Backend:** Java, Python, Node.js (conceptos básicos)
+- 🗄️ **Bases de Datos:** MySQL, SQL Server
+- 💻 **Frontend:** HTML5, CSS3, JavaScript (React/Vue en formación)
+- 🔧 **Herramientas:** Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on NeusRecords
+---
 
-- 🌱 I’m currently learning **R, Python, Pandas, Numpy**
+### 🌟 Proyectos Destacados
 
-- 💬 Ask me about **SQL, MERN, Frontend, UI/UX, figma, HTML, JavaScript, CSS**
+#### [Idialo](https://github.com/pedrolouisq/idialo)
+> *Descripción breve: Una herramienta enfocada en [completar aquí, ej: gestión de diálogos o generación de ideas].*
+- **Tecnologías:** Java / SQL (o los que hayas usado)
+- **Logro clave:** Implementación de lógica de persistencia y manejo de interfaces.
 
-- 📫 How to reach me **itspedrolouis@gmail.com**
+#### [Wallpaperhub](https://github.com/pedrolouisq/wallpaperhub)
+> *Descripción breve: Aplicación para la gestión y visualización de fondos de pantalla de alta resolución.*
+- **Tecnologías:** JavaScript / CSS / API REST
+- **Logro clave:** Consumo de APIs externas y diseño de interfaz de usuario moderna. *(Nota: Te recomiendo mover este repo a este perfil personal).*
 
-- View my portfolio - **click here**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thilina5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina5" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/thilina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="thilina" height="30" width="40" /></a>
-<a href="https://kaggle.com/thilinal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thilinal5" height="30" width="40" /></a>
-<a href="https://instagram.com/thilinalkshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thilinalkshan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lakshanthilina51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakshanthilina51" height="30" width="40" /></a>
-</p>
+### 📊 Estadísticas de GitHub
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=pedrolouisq&show_icons=true&theme=radical)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolouisq&layout=compact&theme=radical)
+
+---
+
+### 📫 ¿Cómo contactarme?
+- **LinkedIn:** [(https://www.linkedin.com/in/pedromorenooficial/)]
+- **Email:** [itspedrolouis@gmail.com]
+- **Ubicación:** [Cartagena/Colombia]
+
+*"Apasionado por resolver problemas complejos mediante código limpio y bien estructurado."*
