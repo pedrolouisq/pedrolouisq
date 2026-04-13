@@ -1,4 +1,4 @@
-# ¡Hola! Soy Pedro Louis Q 👋
+# ¡Hola! Soy Pedro Moreno 👋
 
 ### 🚀 Estudiante de 5to Semestre de Tecnología en Sistemas
 Actualmente me encuentro en la recta final de mi formación técnica, enfocado en el desarrollo de soluciones de software eficientes y escalables. Estoy buscando mi primera oportunidad de **prácticas profesionales** para aplicar mis conocimientos en entornos reales y seguir creciendo como desarrollador.
