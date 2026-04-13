@@ -18,7 +18,7 @@ Actualmente me encuentro en la recta final de mi formación técnica, enfocado e
 ### 🌟 Proyectos Destacados
 
 #### [Idialo](https://github.com/pedrolouisq/idialo)
-> *Descripción breve: Una herramienta enfocada en [completar aquí, ej: gestión de diálogos o generación de ideas].*
+> *IDialo es una aplicación de chat moderna, cifrada de extremo a extremo (E2EE) y con persistencia en la nube mediante MongoDB. Diseñada para ofrecer una experiencia premium con glassmorphism, temas dinámicos y videollamadas.*
 - **Tecnologías:** Java / SQL (o los que hayas usado)
 - **Logro clave:** Implementación de lógica de persistencia y manejo de interfaces.
 
