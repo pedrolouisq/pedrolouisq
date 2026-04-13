@@ -35,8 +35,11 @@ Me apasiona construir aplicaciones modernas, seguras y con una experiencia de us
 ---
 
 ### 📊 Mis Estadísticas
-![Estadísticas de Pedro](https://github-readme-stats.vercel.app/api?username=pedrolouisq&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolouisq&layout=compact&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrolouisq&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub de Pedro" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolouisq&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes más usados" height="180px" />
+</p>
 
 ---
 
